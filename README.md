@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
