@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DivyaAnkitha777/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
